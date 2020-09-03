@@ -6,15 +6,11 @@
         <artifactId>timwang-dubbo-parent</artifactId>
         <groupId>com.timwang</groupId>
         <version>${revision}</version>
-        <relativePath>../timwang-dubbo-parent</relativePath>
+        <relativePath>../timwang-dubbo-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <packaging>jar</packaging>
-    <artifactId>timwang-dubbo-rpc</artifactId>
 
-    <dependencies>
+    <artifactId>timwang-dubbo-provider</artifactId>
 
-    </dependencies>
 
 </project>
-
