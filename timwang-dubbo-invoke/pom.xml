@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>timwang-dubbo-invoke</artifactId>
+        <artifactId>timwang-dubbo-parent</artifactId>
         <groupId>com.timwang</groupId>
         <version>1.4.35</version>
         <relativePath>../timwang-dubbo-parent</relativePath>
@@ -13,7 +13,7 @@
     <artifactId>timwang-dubbo-invoke</artifactId>
 
     <dependencies>
-        
+
     </dependencies>
 
 </project>
